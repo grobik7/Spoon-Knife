@@ -1,9 +1,17 @@
-### Well hello there!
+# EcommerceApplication - Javascript
 
-This repository is meant to provide an example for *forking* a repository on GitHub.
+## It is a Javascript Application
+## It is an Online Electronic Shopping Application. 
+- It shows the working example of how Online Shopping Websites works.
+- Where User can register, login, logout, add product to cart, buy product. and Admin can add new products to items list and can manage the Customers.
 
-Creating a *fork* is producing a personal copy of someone else's project. Forks act as a sort of bridge between the original repository and your personal copy. You can submit *Pull Requests* to help make other people's projects better by offering your changes up to the original project. Forking is at the core of social coding at GitHub.
 
-After forking this repository, you can make some changes to the project, and submit [a Pull Request](https://github.com/octocat/Spoon-Knife/pulls) as practice.
+## Try this Project url: https://swapnilbamble1438.github.io/EcommerceApplication/
 
-For some more information on how to fork a repository, [check out our guide, "Forking Projects""](http://guides.github.com/overviews/forking/). Thanks! :sparkling_heart:
+### Technology used in this Project: 
+Html,Css,Bootstrap,Javascript are used to build the project
+
+### Software And Tools Required:
+Visual Studio
+
+### Its a Javascript Version, for Java J2EE version see https://github.com/swapnilbamble1438/EcommerceApp
